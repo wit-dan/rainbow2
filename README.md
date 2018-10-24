@@ -3,3 +3,4 @@
 Jira integration Checkin
 
 Test file one.
+More test text.
